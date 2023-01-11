@@ -18,7 +18,6 @@ function App() {
           <Route path="/forgot-password" element={<ForgotPassword />}/>
         </Routes>
       </Router>
-      {/* Navbar */}
       
     </>
   );
